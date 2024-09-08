@@ -24,6 +24,7 @@ This course will reference **TBD**
 Students will also need the following free resources:
 
 * A https://replit.com account
+* A https://www.codestepbystep.com/ account (using your Pierce College email)
 * A modern, syntax-highlighting code editor.
 
 #### Reference
