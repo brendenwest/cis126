@@ -200,8 +200,8 @@ JavaScript code mostly runs in HTML web pages. Code can be inline between `scrip
             /* this is a comment
              */
             let x = 5;
-            let firstname = "ted";
-            document.write(y);
+            let firstName = "ted";
+            document.write(`My name is ${firstName}`);
         </script>
     </body </html>
 
